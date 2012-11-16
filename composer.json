@@ -1,0 +1,22 @@
+{
+    "name": "aferrandini/bins",
+    "type": "library",
+    "description": "Bins installer for Bin utils",
+    "keywords": ["symfony", "bin", "utils", "fixperms", "clearcache"],
+    "homepage": "https://github.com/aferrandini/bins",
+    "license": "MIT",
+    "authors": [
+            {
+                "name": "Ariel Ferrandini",
+                "email": "arielferrandini@gmail.com",
+                "homepage": "http://www.ferrandini.com/"
+            }
+        ],
+    "require": {
+            "php": ">=5.3.2"
+        },
+    "autoload": {
+            "psr-0": { "Ferrandini": "" }
+        },
+    "target-dir": "Ferrandini"
+}
