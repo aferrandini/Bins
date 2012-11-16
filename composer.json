@@ -6,17 +6,17 @@
     "homepage": "https://github.com/aferrandini/bins",
     "license": "MIT",
     "authors": [
-            {
-                "name": "Ariel Ferrandini",
-                "email": "arielferrandini@gmail.com",
-                "homepage": "http://www.ferrandini.com/"
-            }
-        ],
+        {
+            "name": "Ariel Ferrandini",
+            "email": "arielferrandini@gmail.com",
+            "homepage": "http://www.ferrandini.com/"
+        }
+    ],
     "require": {
-            "php": ">=5.3.2"
-        },
+        "php": ">=5.3.2"
+    },
     "autoload": {
-            "psr-0": { "Ferrandini": "" }
-        },
+        "psr-0": { "Ferrandini": "" }
+    },
     "target-dir": "Ferrandini"
 }
